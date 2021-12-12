@@ -1,3 +1,7 @@
 h1, p {
   font-family: Lato;
 }
+.btn{
+  background-color: red;
+  border:1px solid white;
+}
